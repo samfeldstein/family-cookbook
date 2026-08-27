@@ -1,5 +1,6 @@
-@use "_reset";
-@use "_config";
+@use 'fonts';
+@use 'reset';
+@use 'config';
 
 h1 {
     font-weight: 400;

@@ -3,7 +3,7 @@ title: Vegetarian Chili
 created: 2025-11-20
 tags:
   - vegetarian
-  - soup
+  - soups
   - easy
 ---
 
